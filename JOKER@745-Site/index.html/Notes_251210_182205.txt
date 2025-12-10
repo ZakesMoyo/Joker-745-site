@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>JOK3R_745</title>
+<link href="https://fonts.googleapis.com/css2?family=Share+Tech+Mono&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<!-- Header -->
+<header>
+    <div class="container">
+        <h1>JOK3R_745</h1>
+        <p>Dark. Minimal. Hacker-themed. Digital Marketing & Affiliate Promotions.</p>
+        <a href="#services" class="btn">Explore</a>
+    </div>
+</header>
+
+<!-- About -->
+<section id="about">
+    <div class="container">
+        <h2>About JOK3R_745</h2>
+        <p>We create high-impact digital marketing strategies, affiliate promotions, and content solutions for those who want to dominate online. Our approach is minimal, hacker-themed, and results-driven.</p>
+    </div>
+</section>
+
+<!-- Services -->
+<section id="services">
+    <div class="container">
+        <h2>Services</h2>
+        <div class="services">
+            <div class="service-card">
+                <h3>Affiliate Promotions</h3>
+                <p>Promoting products with high conversion rates using social media and digital campaigns.</p>
+                <a href="https://www.takealot.com/affiliate-link-example target="_blank" class="btn">Check Product</a>
+            </div>
+            <div class="service-card">
+                <h3>Content Creation</h3>
+                <p>Creating viral TikTok, Instagram, and YouTube content tailored to your audience.</p>
+                <a href="http://www.takealot.com/affiliate-link-example target="_blank" class="btn">Check Product</a>
+            </div>
+            <div class="service-card">
+                <h3>Digital Marketing</h3>
+                <p>Strategy, automation, and client acquisition to maximize online presence.</p>
+                <a href="http://www.takealot.com/affiliate-link-example target="_blank" class="btn">Check Product</a>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Contact -->
+<section id="contact">
+    <div class="container">
+        <h2>Contact Me</h2>
+        <p>Get in touch for collaborations, promotions, or inquiries.</p>
+        <div class="contact">
+            <form action="mailto:your-email@example.com" method="post" enctype="text/plain">
+                <input type="text" name="name" placeholder="Your Name" required>
+                <input type="email" name="email" placeholder="Your Email" required>
+                <textarea name="message" placeholder="Your Message" rows="5" required></textarea>
+                <button type="submit">Send Message</button>
+            </form>
+        </div>
+    </div>
+</section>
+
+<!-- Footer -->
+<footer>
+    <p>&copy; 2025 JOK3R_745 | Dark Minimal Hacker Theme | Takealot Affiliate Ready</p>
+</footer>
+
+</body>
+</html>
